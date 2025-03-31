@@ -12,15 +12,15 @@ public class DemoApplication {
 	}
 }
 
-@RestController
-class HelloController {
-	@GetMapping("/")
-	public String hello() {
-		return "Hello, Spring Boot!";}
-
-		@GetMapping("/newHello")
-		public String newHello() {
-			return "Hello, visitor!";
-
-	}
-}
+// @RestController
+//class HelloController {
+//	@GetMapping("/")
+//	public String hello() {
+//		return "Hello, Spring Boot!";}
+//
+//	@GetMapping("/newHello")
+//	public String newHello() {
+//		return "Hello, visitor!";
+//
+//	}
+//}
