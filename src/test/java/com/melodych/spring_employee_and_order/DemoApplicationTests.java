@@ -1,4 +1,4 @@
-package com.melodych.site_with_tests;
+package com.melodych.spring_employee_and_order;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.melodych.site_with_tests;
+package com.melodych.spring_employee_and_order;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
